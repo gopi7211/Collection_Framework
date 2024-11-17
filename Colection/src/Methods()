@@ -1,0 +1,300 @@
+				Collection
+1.	
+add(lnteger e) : boolean - Collection
+addAll(Collection<? extends Integer> c) : boolean - Collection
+clear() : void - Collection
+contains(Object o) : boolean - Collection
+containsAll(Collection<?> c) : boolean - Collection
+equals(Object o) : boolean - Collection
+hashCode() : int - Collection
+isEmpty() : boolean - Collection
+iterator() : Iterator<lnteger> - Collection
+parallelStream0 : Stream <lnteger> - Collection
+remove(Object o) : boolean - Collection
+removeAll(Collection<?> c) : boolean - Collection
+removelf(Predicate<? super Integer> filter) : boolean - Collection
+retainAll(Collection<?> c) : boolean - Collection
+size() int - Collection
+spliterator() : Spliterator<lnteger> - Collection
+stream() : Stream <lnteger> - Collection
+toArray() : Object[] - Collection
+toArray(lntFunction<T[]> generator) : TO - Collection
+toArray(T[] a) : TO - Collection
+
+
+
+					List
+					
+add(lnteger e) : boolean - List
+add(int index, Integer element) : void - List
+addAll(Collection<? extends Integer> c) : boolean - List
+addFirst(Integer e) : void - List
+addLast(lnteger e) : void - List
+clear() : void - List
+contains(Object o) : boolean - List
+containsAll(Collection<?> c) : boolean - List
+equals(Object o) : boolean - List
+getFirst0 : Integer - List
+getLast0 : Integer - List
+hashCode() : int - List
+indexOf(Object o) : int - List
+isEmpty() : boolean - List
+iterator() : Iterator<lnteger> - List
+lastlndexOf(Object o) : int - List
+listlterator() : Listlterator<lnteger» - List
+listlterator(int index) : Listlterator<lnteger» - List
+remove(int index) : Integer - List
+remove(Object o) : boolean - List
+c) : boolean - List
+removeFirst0 : Integer - List
+removelf(Predicate«? super Integer> filter) : boolean - Collection
+removeLast() : Integer - List
+operator) : void - List
+retainAll(Collection<?> c) : boolean - List
+reversed() : List<lnteger> - List
+set(int index, Integer element) : Integer - List
+size() : int - List
+sort(Comparator<? super Integer> c) : void - List
+spliterator() : Spliterator<lnteger> - List
+stream() : Stream<lnteger> - Collection
+subList(int fromlndex, int tolndex) : List<lnteger> - List
+toArray() : Object[] - List
+toArray0 : Object[l - List
+
+
+						ArrayList
+					
+add(lnteger e) : boolean - ArrayList
+add(int index, Integer element) : void - ArrayList
+addAll(Collection<? extends Integer> c) : boolean - ArrayList
+addAll(int index, Collection<? extends Integer> c) : boolean - ArrayList
+addFirst(lnteger element) void - ArrayList
+addLast(lnteger element) : void - ArrayList
+clear() void - ArrayList
+clone() : Object - ArrayList
+contains(Object o) boolean - ArrayList
+ensureCapacity(int minCapacity) : void - ArrayList
+equals(Object o) : boolean - ArrayList
+forEach(Consumer<? super Integers action) void - ArrayList
+get(int index) Integer - ArrayList
+getFirst() Integer - ArrayList
+getLast() : Integer - ArrayList
+hashCode0 : int - ArrayList
+indexOf(Object o) int - ArrayList
+isEmpty() : boolean - ArrayList
+iterator() : Iterator<lnteger> - ArrayList
+lastlndexOf(Object o) : int - ArrayList
+listlterator() : Listlterator<lnteger> - ArrayList
+listlterator(int index) : Listlterator<lnteger» - ArrayList
+parallelStream0 : Stream <lnteger> - Collection
+remove(int index) : Integer - ArrayList
+remove(Object o) : boolean - ArrayList
+removeAll(Collection<?> c) : boolean - ArrayList
+removeFirst() : Integer - ArrayList
+removelf(Predicate«? super Integer> filter) : boolean - ArrayList
+removeLast() : Integer - ArrayList
+operator) : void - ArrayList
+retainAll(Collection<?> c) : boolean - ArrayList
+set(int index, Integer element) : Integer - ArrayList
+size() int - ArrayList
+sort(Comparator<? super Integer> c) : void - ArrayList
+spliterator() : Spliterator<lnteger> - ArrayList
+subList(int fromlndex, int tolndex) : List<lnteger> - ArrayList
+toArray0 : Object[] - ArrayList
+toArray(T[] a) : T[] - ArrayList
+toString() : String - AbstractCollection
+trimToSize() void - ArrayList
+
+
+				LinkedList
+add(lnteger e) : boolean - LinkedList
+add(int index, Integer element) : void - LinkedList
+addAll(Collection<? extends Integer> c) : boolean - LinkedList
+addAll(int index, Collection<? extends Integer> c) : boolean - LinkedList
+addFirst(Integer e) : void - LinkedList
+addLast(lnteger e) : void - LinkedList
+clear() : void - LinkedList
+clone() : Object - LinkedList
+contains(Object o) : boolean - LinkedList
+descendinglterator() : Iterator<lnteger» - LinkedList
+element() : Integer - LinkedList
+get(int index) Integer - LinkedList
+getFirst0 : Integer - LinkedList
+getLast0 : Integer - LinkedList
+indexOf(Object o) : int - LinkedList
+lastlndexOf(Object o) : int - LinkedList
+listlterator() : Listlterator<lnteger> - List
+listlterator(int index) : Listlterator<lnteger> - LinkedList
+offer(lnteger e) : boolean - LinkedList
+offerFirst(lnteger e) : boolean - LinkedList
+offerLast(lnteger e) : boolean - LinkedList
+peek() : Integer - LinkedList
+peekFirst0 Integer - LinkedList
+peekLast() : Integer - LinkedList
+poll() : Integer - LinkedList
+pollFirst() Integer - LinkedList
+pollLast() : Integer - LinkedList
+popo : Integer - LinkedList
+push(lnteger e) : void - LinkedList
+remove() : Integer - LinkedList
+remove(int index) : Integer - LinkedList
+remove(Object o) : boolean
+- LinkedList
+removeFirst() : Integer - LinkedList
+removeFirstOccurrence(Object o) : boolean - LinkedList
+removeLast() : Integer - LinkedList
+removeLastOccurrence(Object o) : boolean - LinkedList
+reversed() : LinkedList<lnteger> - LinkedList
+set(int index, Integer element) : Integer - LinkedList
+size() : int - LinkedList
+spliterator() : Spliterator<lnteger> - LinkedList
+subList(int fromlndex, int tolndex) : List<lnteger> - List
+toArray() : Object[] - LinkedList
+toArray(TO a) : TO - LinkedList
+toString0 : String - AbstractCollection
+
+
+							QUEUE
+element() : Integer - Queue
+offer(lnteger e) : boolean - Queue
+peek() : Integer - Queue
+poll() : Integer
+remove() : Integer - Queue
+
+
+							PriorityQueue
+clear() : void - PriorityQueue
+comparator() : Comparator<? super Integer> - PriorityQueue
+contains(Object o) : boolean - PriorityQueue
+forEach(Consumer<? super Integers action) : void - PriorityQueue
+iterator() : Iterator<lnteger» - PriorityQueue
+offer(lnteger e) : boolean - PriorityQueue
+peek() Integer - PriorityQueue
+poll() : Integer - PriorityQueue
+remove() : Integer - AbstractQueue
+remove(Object o) : boolean - PriorityQueue
+removeAll(Collection<?> c) : boolean - PriorityQueue
+removelf(Predicate<? super Integer> filter) : boolean - PriorityQueue
+retainAll(Collection<?> c) : boolean - PriorityQueue
+size() : int - PriorityQueue
+spliterator() : Spliterator<lnteger> - PriorityQueue
+toArray() : Object[] - PriorityQueue
+toArray(TO a) : TO - PriorityQueue
+
+								DEQUE
+add(lnteger e) : boolean - Deque
+addAll(Collection<? extends Integer> c) : boolean - Deque
+addFirst(lnteger e) : void - Deque
+addLast(Integer e) : void - Deque
+contains(Object o) : boolean - Deque
+descendinglterator() : Iterator<lnteger> - Deque
+element() : Integer - Deque
+getFirst0 : Integer - Deque
+getLast0 : Integer - Deque
+isEmpty() : boolean
+- Collection
+iterator() : Iterator<lnteger> - Deque
+notify() : void - Object
+notifyAll() : void - Object
+offer(lnteger e) : boolean - Deque
+offerFirst(lnteger e) : boolean - Deque
+offerLast(lnteger e) : boolean - Deque
+peek0 Integer - Deque
+peekFirst() : Integer - Deque
+peekLast0 Integer - Deque
+poll() : Integer - Deque
+pollFirst0 : Integer - Deque
+pollLast0 Integer - Deque
+popo : Integer - Deque
+push(lnteger e) : void - Deque
+remove() Integer - Deque
+remove(Object o) boolean - Deque
+removeAll(Collection<?> c) boolean - Collection
+removeFirst0 Integer - Deque
+removeFirstOccurrence(Object o) : boolean - Deque
+removelf(Predicate<? super Integer> filter) : boolean - Collection
+removeLast0 : Integer - Deque
+removeLastOccurrence(Object o) : boolean - Deque
+retainAll(Collection<?> c) : boolean - Collection
+reversed() : Deque<lnteger> - Deque
+size() : int - Deque
+
+ArrayDeque
+
+addAll(Collection<? extends Integer> c) : boolean - ArrayDeque
+addFirst(lnteger e) : void - ArrayDeque
+addLast(lnteger e) : void - ArrayDeque
+clear() : void - ArrayDeque
+clone() : ArrayDeque<lnteger> - ArrayDeque
+contains(Object o) : boolean - ArrayDeque
+descendinglterator() : Iterator<lnteger> - ArrayDeque
+element() : Integer - ArrayDeque
+getFirst0 : Integer - ArrayDeque
+getLast() : Integer - ArrayDeque
+isEmpty() : boolean - ArrayDeque
+iterator() : Iterator<lnteger> - ArrayDeque
+offer(lnteger e) : boolean - ArrayDeque
+offerFirst(lnteger e) : boolean - ArrayDeque
+offerLast(lnteger e) : boolean - ArrayDeque
+getFirst0 : Integer - ArrayDeque
+getLast() : Integer - ArrayDeque
+isEmpty() : boolean - ArrayDeque
+iterator() : Iterator<lnteger> - ArrayDeque
+offer(lnteger e) : boolean - ArrayDeque
+offerFirst(lnteger e) : boolean - ArrayDeque
+offerLast(lnteger e) : boolean - ArrayDeque
+peek() : Integer - ArrayDeque
+peekFirst() : Integer - ArrayDeque
+peekLast() : Integer - ArrayDeque
+poll() : Integer - ArrayDeque
+pollFirst0 : Integer - ArrayDeque
+pollLast0 : Integer - ArrayDeque
+popo : Integer - ArrayDeque
+push(lnteger e) : void - ArrayDeque
+remove() : Integer - ArrayDeque
+remove(Object o) : boolean - ArrayDeque
+removeAll(Collection<?> c) : boolean - ArrayDeque
+removeFirst0 : Integer - ArrayDeque
+removeFirstOccurrence(Object o) : boolean - ArrayDeque
+removelf(Predicate<? super Integer> filter) : boolean - ArrayDeque
+removeLast() : Integer - ArrayDeque
+removeLastOccurrence(Object o) : boolean - ArrayDeque
+retainAll(Collection<?> c) : boolean - ArrayDeque
+reversed() : Deque<lnteger> - Deque
+size() : int - ArrayDeque
+spliterator() : Spliterator<lnteger> - ArrayDeque
+toArray() : Objectu - ArrayDeque
+toArray(T[] a) : T[] - ArrayDeque
+
+					HashSet
+add(lnteger e) : boolean - HashSet
+addAll(Collection«? extends Integers c) : boolean - Set
+addAll(Collection«? extends Integers c) : boolean - AbstractCollection
+clear() : void - HashSet
+clone() : Object - HashSet
+contains(Object o) : boolean - HashSet
+containsAll(Collection<?> c) : boolean - Set
+equals(Object o) : boolean - Set
+forEach(Consumer<? super Integers action) : void - Iterable
+getClass0 : Class<?> - Object
+hashCode() : int - Set
+isEmpty() : boolean - HashSet
+iterator() : Iterator<lnteger> - HashSet
+notify() : void - Object
+notifyAll() : void - Object
+parallelStream0 : Stream <lnteger> - Collection
+remove(Object o) boolean - HashSet
+removeAll(Collection<?> c) : boolean - Set
+removelf(Predicate<? super Integers filter) : boolean - Collection
+retainAll(Collection<?> c) : boolean - Set
+size() int - HashSet
+spliterator() : Spliterator<lnteger> - HashSet
+stream() : Stream <lnteger> - Collection
+toArray0 : Object[] - HashSet
+toArray(lntFunction<T[]> generator) : TO - Collection
+toArray(TO a) : TO - HashSet
+toString0 : String - AbstractCollection
+waito : void - Object
+wait(long timeoutMillis) : void - Object
+wait(long timeoutMillis, int nanos) : void - Object
+newHashSet(int numElements) : - HashSet

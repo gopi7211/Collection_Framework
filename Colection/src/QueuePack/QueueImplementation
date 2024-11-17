@@ -1,0 +1,83 @@
+1.Write a Java program to create a Queue using LinkedList
+
+2.Write a Java program to implement Queue using ArrayDeque class
+
+3.Write a Java program to remove an item from the Queue
+
+4. Write a Java program to compare two queues.
+
+5.Write a Java program to print Queue elements using foreach loop.
+
+6.Write a Java program to get the size of the Queue collection.
+
+7.Write a Java program to check whether a queue is empty or not.
+
+8.Write a Java program to iterate Queue elements using the iterator() method.
+
+9.Write a Java program to remove all elements of queue.
+
+10. Write a Java program to add elements to Queue using add() and offer() methods.
+
+11.Write a Java program to retrieve & remove an element from the head of the queue.
+
+12.Write a Java program to retrieve an element from the head of the queue without removing it
+
+13. Write a Java program to Removing elements from the queue using poll() methods
+
+14.Write a Java program to Accessing the head of the queue using peek() methods
+
+15.Write a Java program to Reverse Queue using a Stack
+
+16.Write a Java program to Check if a queue is palindrome or not
+
+17.Write a Java Program to Interleave the elements of two queues
+
+18.Write a Java Program to Find the maximum element in a queue
+
+19.Write a Java Program to Find the sum of elements in a queue
+
+20.Write a Java Program to Find the average of elements in a queue
+
+21. Write a Java Program to Check if a queue contains a specific element
+
+22.Write a Java Program to Merge two queues
+
+23.Write a Java program to Reverse the order of elements in a queue without using any additional data structures
+
+24.write a Java program to Find the first non-repeating element in the array using a queue
+
+25.Write a Java program to Reverse the elements of a queue using recursion
+
+26.Write a Java program to Remove all occurrences of a specific element from a queue
+
+27.Write a Java program to Check if two queues are equal. Two queues are considered equal if they have the same elements in the same order
+
+28.rite a Java program to Find the minimum element in a queue without removing it from the queue
+
+29.Write a Java program to Reverse the first half of the elements and leave the second half unchanged
+
+30.Write a Java program to Find the sum of all even numbers in the queue.
+
+31.Write a Java program to Find the sum of all odd numbers in the queue
+
+32.Write a Java program to Find the Longest string in the queue
+
+33.Write a Java program to Remove all Duplicate elements from the queue
+
+34.Write a Java program to Find the Product of all elements in a queue
+
+35.Write a Java program to Move all Even elements to the front of the queue while maintaining the relative order of other elements
+
+36.Write a Java program to Find the second smallest element in the queue  
+
+37.Write a Java program to Print the all Even numbers in the queue
+
+38.Write a Java program to Print the all Odd numbers in the queue
+
+39.Write a Java program to Print the all Negative numbers in the queue
+
+40.Write a Java program to Print the all Positive numbers in the queue
+
+41.Write a Java program to Clear all elements from a queue
+
+42. Write a Java program to Counts the number of digits, alphabets, and special characters in a queue of strings
